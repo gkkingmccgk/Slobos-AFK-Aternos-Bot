@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "BOTTT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "pvtmc.aternos.me",
-    "port": 14308,
+    "ip": "pvtsmps.aternos.me",
+    "port": 49705,
     "version": "",
     "try-creative": false
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "bhaiyal78"
     },
     "anti-afk": {
       "enabled": true,
